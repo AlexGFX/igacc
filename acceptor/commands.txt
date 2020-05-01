@@ -1,0 +1,9 @@
+sudo apt-get install python-pip
+mkdir instacceptor
+cd instacceptor
+pip install colorama halo
+nano main.py
+nano InstagramAPI.py
+// Test it by using python main.py then if it works, quit the ssh, run it again,
+use "cd instacceptor" and run this command:
+nohup python main.py

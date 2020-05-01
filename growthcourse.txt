@@ -1,0 +1,192 @@
+Hey! Thank you SO much for purchasing this little course i've written out.
+
+You've bought this because you want a minimum of 500-1000 followers per DAY, so follow my EVERY step.
+
+If you haven't bought this course, YOU ARE COMMITTING A ROBBERY, AND I WILL FIND YOUR ASS. So DM me @REDDITWRLD on 
+instagram for pricing.
+
+IF YOU NEED ANY HELP AT ALL, DM @REDDITWRLD ON INSTAGRAM, I'LL BE HAPPY TO HELP (unless you didn't buy this course, 
+then i'll kill you)
+
+A few things before we start..
+1. This can all be done on your phone, but it is recommended by me that you have a computer.
+2. You won't need any paid software or hardware to do this, everything you will need is now completely free.
+3. This method isn't entirely a sit-back and relax thing, unless your simply watching followers roll in.
+4. This method works for every type of account and isn't restricted to just meme accounts.
+5. I should've sent you a video to watch for step 7, if i haven't, DM me now (@REDDITWRLD)
+6. Don't be scared of how long this process is, it's actually a relatively simple concept!
+
+Ok, lets get started, shall we?
+
+Step 1:
+
+- If you haven't already, create a private instagram account you will be growing
+- In the bio, include the line 'if i accept in 5 sec you have to stay followed" , this increases the rate at 
+which people decide not to unfollow
+
+Step 2: (You can either use your phone or computer for this step): 
+
+- Open your browser and type 'http://auto-acceptor.radleygreenwell.repl.run/' into the URL box. This should open a black screen with white
+text. Wait for the initial steps of the program to finish, and it should ask you to login to instagram.
+
+- If you feel skeptical about typing in your credentials, understand that the source code has been examined by 
+myself as well as other large pages that use this. If you're still skeptical, feel free to read the source code
+yourself here: https://repl.it/@instagram/Follow-request-accepter
+- After you type in your credentials, the program should display 'Followers accepted: 0" , this is where the 
+program will display all follow requests it accepts (instantly of course).
+- This tab in your browser MUST REMAIN OPEN otherwise the program will end.
+- On mobile, you may leave the browser as long as it is still running in the background.
+- NOTICE: On mobile, you HAVE to keep your phone ON, otherwise the bot will shut down, see steps 10 and 11 for an
+EFFICIENT workaround.
+
+- NOTICE: the program will oddly shut down BY ITSELF after an hour or so of being active, all you have to do is
+click/press "run again" which will display at the bottom of the screen. This will hopefully be patched in future
+versions.
+
+Step 3 (this step will take a bit of manual work): 
+
+- On your instagram page, follow everyone my account (@RedditWRLD) is following. You may receive an action block if 
+you follow too many at one time. I suggest you follow 25-75 accounts every few hours to avoid this. 
+- These accounts you just followed contain a large following and engagement rate, and will be needed when 
+self-promoting.
+
+Step 4 (setting up text replacement):
+
+- Now we'll set up your self-promoting lines.
+- These will be the comments you will post on the accounts on your feed as they come
+- On your iPhone (for android go to https://www.wikihow.com/Add-Custom-Text-Shortcuts-to-Android) go to 
+Settings > General > Keyboard > Text Replacement. Press the plus sign in the top right corner to add a new
+shortcut.
+- You will be adding 4 different shortcuts.
+- You should place an emoji of your choice in place of the underscores!!!
+- The shortcuts need to be as follows:
+	1. Phrase = *hand pointing left emoji* request and refresh!
+	   Shortcut = qq
+	2. Phrase = i accept in under 5 sec , i have NEVER failed __
+	   Shortcut = qqq
+	3. Phrase = If i accept under 5 sec you have to like this __
+	   Shortcut = xx
+	4. Phrase = if i accept in 5 seconds you have to like this comment __
+           Shortcut = xxx
+- These 4 shortcuts will allow you to comment much faster than copying comments and pasting them from your notes.
+- These 4 shortcuts are also GUARANTEED to work, however, feel free to make up your own persuading comments.
+- REFER TO THE IMAGE SENT TO YOU OVER EMAIL! 
+- If you are unable to get these phrases on to your phone for whatever reason, DM @RedditWRLD on instagram and I 
+will gladly send mine to you! :)
+- Your shortcuts are now set up and you're ready to start gaining followers!
+
+Step 5 (this step makes sure you're ready to start promoting):
+
+- Make sure your auto acceptor is still running in the background of your browser
+- You will know if the acceptor is working if it displays a blue square loading animation to the left of the 
+words "Followers accepted:"
+- You should be following at least 200 accounts at this point, if not, take some time to follow more accounts that
+my account follows (@RedditWRLD).
+- Remember that the more accounts you follow, the better
+
+Step 6 (learning how to use text replacement):
+
+- Open your notes (on Android, just go somewhere that allows you to type, ex. instagram DMs)
+- Open a new note
+- In this note, you will find that when you type 'xx' , the phrase you placed earlier will appear in the center
+top of your keyboard. 
+- Simply press the phrase, and it will replace the two X's. 
+- Mastering this skill is imperative when self-promoting as it is 2-3 times faster than copying and pasting
+- Practice this with the other shortcuts (xxx, qq, qqq) until you believe you understand it
+- DM ME IF YOU DO NOT UNDERSTAND THIS STEP (@RedditWRLD)
+
+Step 7 (time to comment!):
+
+- Open instagram on the account you wish to grow and go to your home feed.
+- You should notice that after refreshing the home page multiple times, a few new posts should show up
+- THE GOAL OF SELF PROMOTING IS TO BE THE FIRST PERSON TO COMMENT ON A NEW POST
+- Your job now, is to sit on the home feed, refresh the page over and over until new posts show up.
+- instantly, you need to use text replacement on the comment section of the post to be the first person to 
+comment
+- REFER TO THE VIDEO SENT TO YOU OVER EMAIL FOR A TUTORIAL (VERY HELPFUL)!
+- You should use the 4 shortcuts randomely when commenting on new posts to avoid action bans
+
+DO NOT:
+- Comment more than once per post
+- Comment on posts exactly as they appear, skip a post or two to avoid action bans
+- Comment more than 5-7 times per minute
+- Comment if other self-promoters are in the comment section before you
+
+Step 8 (satisfaction):
+
+- You will notice after a few comments (if you were first) than your acceptor bot will skyrocket in numbers
+as followers roll in
+- You will also notice that followers will be accepted INSTANTLY AUTOMATICALLY as long as the bot is running
+- Remember to restart the bot when it shuts down, normally once per hour.
+- Repeat step 7 multiple times daily for a constant high follower income.
+- This is a very addicting process at times, and you must avoid commenting too many times too fast.
+- The faster you comment, the more followers you'll gain! However, don't comment too fast or you'll receive an
+action ban (NOT fun). 
+- Feel free to manipulate this process to your liking, however DO NOT DISTRIBUTE THIS FILE!
+
+________________________________________________________________________________________________________________
+
+These next few steps are optional, and much more complicated, but important if you would like to keep your acceptor
+bot alive for a longer period.
+
+YOU MUST HAVE A PERSONAL COMPUTER FOR THESE NEXT STEPS!
+
+Step 9 (setting up your computer for remote access):
+
+- If not already installed, install google chrome on your computer (available here: https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiA_f3uBRAmEiwAzPuaM5PMjGcTrb2ulkycZD9JlmNV1jc-3htkHZ-XIFkrJfbdbiTDsmho2RoCgbAQAvD_BwE&gclsrc=aw.ds 
+- Install the google chrome remote desktop extension on your computer (available here: https://remotedesktop.google.com/access/ 
+- On your phone, install 'Chrome Remote Desktop' from the appstore
+- On your phone and computer, follow the steps necessary to set up these programs on both your phone and computer
+- If your having difficulties setting it up, here are a few tutorials:
+	- https://www.youtube.com/watch?v=7aDS3RoAXIY
+	- https://www.youtube.com/watch?v=fTiGI_amQpg
+	- https://www.youtube.com/watch?v=zeit8aDlYho <- most helpful
+
+Step 10 (setting up your computer con't):
+
+- You should now know how to remotely access google chrome.
+- If you for some reason have no idea what you're doing, DM me (@REDDITWRLD) OR see the above tutorials
+- Open google chrome on your computer
+- Create a new tab with the acceptor bot RUNNING
+- Plug your charger into the computer so it doesn't die while running the bot
+- Place your computer in a safe place (IT HAS TO BE OPEN)
+- On your computer, open battery saver settings and TURN OFF AUTO SLEEP
+
+Step 11 (accessing your computer from somewhere else):
+
+- You may now USE YOUR PHONE to access your computer from a different location.
+- You should be able to connect to your computer through your phone, including your acceptor bot
+- From here, you are now able to RESTART the bot from your phone when it has shut down on your computer.
+
+- You may be wondering why you would want to access your acceptor bot remotely:
+
+- PROS:
+	1. Restart your bot at any time from anywhere in like 30 seconds 
+	2. You don't have to keep your phone on at all times to keep the bot alive
+- CONS:
+	1. You have to keep your computer on and running at all times from your home
+	2. No other cons lmao 
+
+IF YOU NEED ANY HELP WITH THESE OPTIONAL STEPS, EITHER REREAD THE STEPS OR DM ME (@RedditWRLD)
+________________________________________________________________________________________________________________
+
+Created by @RedditWRLD 
+November 28th
+
+If you have literally any questions or problems with this method, DM me!
+
+I am constantly updating this method to make it faster and more efficient, so ask me if I've tweaked anything!
+
+Happy growing!
+
+
+
+
+  
+
+
+
+
+
+
+
